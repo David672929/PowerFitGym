@@ -2,9 +2,8 @@
  * Slideshow: Extras Page
  ***********************/
 const images = [
-  "images/gym1.jpg",
-  "images/gym2.jpg",
-  "images/gym3.jpg"
+"images/gym-highlight.jpg",
+ 
 ];
 
 let currentSlide = 0;
